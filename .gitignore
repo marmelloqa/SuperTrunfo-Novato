@@ -1,0 +1,11 @@
+# Build artifacts
+*.o
+*.out
+*.exe
+# Executables (unix)
+nivel-aventureiro/super_trunfo
+nivel-novato/super_trunfo
+# Editor / OS
+.vscode/
+*.swp
+.DS_Store
